@@ -1,7 +1,7 @@
 # Gestão de Fraude em Negócios Digitais
 ### um survey sobre práticas, métricas e controles
 
-**TCC — MBA em Digital Business | USP/ESALQ — 2026**  
+**TCC - MBA em Digital Business | USP/ESALQ 2026**  
 Autor: Breno Mendes Moura  
 Orientadora: Gisela Consolmagno Pelegrini
 
