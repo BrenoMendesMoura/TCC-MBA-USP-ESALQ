@@ -149,4 +149,4 @@ matplotlib>=3.6
 ## Licença
 
 Este código é disponibilizado para fins acadêmicos e de reprodutibilidade científica.  
-A base de dados `creditcard.csv` está sujeita à licença do Kaggle — consulte os termos de uso antes de qualquer utilização comercial.
+A base de dados `creditcard.csv` está sujeita à licença do Kaggle, consulte os termos de uso antes de qualquer utilização comercial.
